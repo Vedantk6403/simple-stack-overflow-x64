@@ -25,7 +25,7 @@ python3 exploit/exploit.py
 
 📝 Detailed Analysis
 For a full walkthrough of the debugging process and stack analysis, check out my blog post here:
-[![View Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge&logo=github)](https://vedantk6403.github.io/my-portfolio/blog/buffer-overflow.html)
+[![View Live Demo](https://img.shields.io/badge/Full_Writeup-View_Post-0077b5?style=for-the-badge&logo=bookstack&logoColor=white)](https://vedantk6403.github.io/my-portfolio/blog/buffer-overflow.html)
 
 
 ### 🔗 Connect with me:
